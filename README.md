@@ -1,7 +1,7 @@
 # -Manual-testing-chat-app-project-Manual QA Testing Project
 
 ## 📌 Project Overview
-- **Project Name:** Friend's Mobile Chat Application (VIP-based Chatonic App)
+- **Project Name:** Mobile Chat Application (VIP-based Chatonic App)
 - **Tested By:** Mohan Srivastav
 - **Testing Type:** Manual Functional, UI, Performance & Billing Testing
 - **Tools Used:** Microsoft Excel, Jira for Defect Tracking
